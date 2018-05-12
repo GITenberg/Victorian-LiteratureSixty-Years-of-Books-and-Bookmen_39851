@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8404
     wikipedia: http://www.lib.udel.edu/ud/spec/findaids/shorterc.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39851#Victorian-LiteratureSixty-Years-of-Books-and-Bookmen
 gutenberg_issued: '2012-05-29'
 gutenberg_type: Text
 identifiers:
